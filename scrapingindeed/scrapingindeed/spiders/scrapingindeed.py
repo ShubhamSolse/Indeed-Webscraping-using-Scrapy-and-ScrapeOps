@@ -3,9 +3,9 @@ import json
 from typing import Any
 import scrapy
 from requests import Response
+import requests
 
 from ..items import ScrapingindeedItem
-import numpy as np
 
 
 class IndeedScraping(scrapy.Spider):
@@ -17,14 +17,15 @@ class IndeedScraping(scrapy.Spider):
 
     def parse(self, response: Response, **kwargs: Any):
 
+        job_list_id = []
         items = ScrapingindeedItem()
+
         script_tag = re.findall(
             r'window.mosaic.providerData\["mosaic-provider-jobcards"\]=(\{.+?\});',
             response.text)
         json_blob = json.loads(script_tag[0])
         jobs_list = json_blob["metaData"]['mosaicProviderJobCardsModel']['results']
 
-        print(type(jobs_list))
         for index, job in enumerate(jobs_list):
             if job.get('jobkey') is not None:
                 Company = job.get('company')
@@ -43,8 +44,8 @@ class IndeedScraping(scrapy.Spider):
                 else:
                     MinSalary = job.get('extractedSalary').get('min')
 
-                if job.get('salarySnippet') is None:
-                    Currency = 0
+                if job.get('salarySnippet'):
+                    Currency = "EUR"
                 else:
                     Currency = job.get('salarySnippet').get('currency')
 
@@ -58,11 +59,6 @@ class IndeedScraping(scrapy.Spider):
                 else:
                     WorkModel = job.get('remoteWorkModel').get('text')
 
-                if job.get("hiringMultipleCandidatesModel") is None:
-                    HiringCandidates = 'Not Disclosed'
-                else:
-                    HiringCandidates = job.get("hiringMultipleCandidatesModel").get("hiresNeededExact")
-
                 items["Company"] = Company
                 items["CompanyRating"] = CompanyRating
                 items["CompanyReviewCount"] = CompanyReviewCount
@@ -73,11 +69,12 @@ class IndeedScraping(scrapy.Spider):
                 items["Currency"] = Currency
                 items["SalaryType"] = SalaryType
                 items["WorkModel"] = WorkModel
-                items["HiringCandidates"] = HiringCandidates
+
                 yield items
 
         next_page = f"https://ie.indeed.com/jobs?q=python&l=Dublin&start={str(self.next_page_number)}"
 
-        if IndeedScraping.next_page_number < 310:
+        if IndeedScraping.next_page_number < 210:
             IndeedScraping.next_page_number += 10
             yield response.follow(next_page, callback=self.parse)
+

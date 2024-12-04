@@ -17,3 +17,4 @@ class ScrapingindeedItem(scrapy.Item):
     Currency = scrapy.Field()
     SalaryType = scrapy.Field()
     WorkModel = scrapy.Field()
+    HiringCandidates = scrapy.Field()

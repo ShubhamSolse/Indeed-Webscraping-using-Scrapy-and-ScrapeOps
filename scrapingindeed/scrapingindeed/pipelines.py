@@ -20,7 +20,7 @@ class ScrapingindeedPipeline:
 
     def create_table(self):
         self.cur.execute("""DROP TABLE IF EXISTS INDEED_JOBS""")  # Correct table name
-        self.cur.execute("""CREATE TABLE INDEED_JOBS (
+        self.cur.execute("""CREATE TABLE INDEED_JOBS(
             Company TEXT,
             CompanyRating TEXT,
             CompanyReviewCount TEXT,
@@ -30,12 +30,13 @@ class ScrapingindeedPipeline:
             MinSalary REAL,
             Currency TEXT,
             SalaryType TEXT,
-            WorkModel TEXT
+            WorkModel TEXT,
+            HiringCandidates TEXT
         )""")
 
     def store_db(self, item):
         self.cur.execute("""INSERT INTO INDEED_JOBS
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""", (
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""", (
             item.get("Company", ""),
             item.get("CompanyRating", ""),
             item.get("CompanyReviewCount", ""),
@@ -45,7 +46,8 @@ class ScrapingindeedPipeline:
             item.get("MinSalary", ""),
             item.get("Currency", ""),
             item.get("SalaryType", ""),
-            item.get("WorkModel", "")
+            item.get("WorkModel", ""),
+            item.get("HiringCandidates", "")
         ))
         self.connection.commit()
 
