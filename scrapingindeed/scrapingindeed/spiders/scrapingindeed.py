@@ -12,7 +12,7 @@ class IndeedScraping(scrapy.Spider):
     name = "indeedscraper"  # Name of the scrapy spider
     next_page_number = 10  # Varaiable used for pagination
     start_urls = [
-        'https://ie.indeed.com/jobs?q=python&l=Dublin&start=0'
+        'https://ie.indeed.com/jobs?q=java+developer&l=Dublin%2C+County+Dublin&start=0'
     ]  # start_urls store the staring url for scraping
 
     # code has been written to create a method to parse the website and scrape the data
