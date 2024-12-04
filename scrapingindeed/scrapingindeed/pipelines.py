@@ -35,14 +35,13 @@ class ScrapingindeedPipeline:
             MinSalary REAL,
             Currency TEXT,
             SalaryType TEXT,
-            WorkModel TEXT,
-            HiringCandidates TEXT
+            WorkModel TEXT
         )""")
 
     # Code written to store values extracted by scrapy crawler into the database
     def store_db(self, item):
         self.cur.execute("""INSERT INTO INDEED_JOBS
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""", (
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""", (
             item.get("Company", ""),
             item.get("CompanyRating", ""),
             item.get("CompanyReviewCount", ""),
@@ -52,8 +51,7 @@ class ScrapingindeedPipeline:
             item.get("MinSalary", ""),
             item.get("Currency", ""),
             item.get("SalaryType", ""),
-            item.get("WorkModel", ""),
-            item.get("HiringCandidates", "")
+            item.get("WorkModel", "")
         ))
         self.connection.commit()
 
