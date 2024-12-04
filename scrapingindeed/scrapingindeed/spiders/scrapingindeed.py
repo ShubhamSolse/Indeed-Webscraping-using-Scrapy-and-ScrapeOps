@@ -17,7 +17,6 @@ class IndeedScraping(scrapy.Spider):
 
     def parse(self, response: Response, **kwargs: Any):
 
-        job_list_id = []
         items = ScrapingindeedItem()
 
         script_tag = re.findall(
