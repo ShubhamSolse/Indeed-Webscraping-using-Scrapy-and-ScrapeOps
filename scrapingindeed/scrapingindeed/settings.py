@@ -20,7 +20,7 @@ NEWSPIDER_MODULE = "scrapingindeed.spiders"
 ROBOTSTXT_OBEY = False
 
 # Integrating scrape-ops with our scrapy spider for proxies
-SCRAPEOPS_API_KEY = 'INSERT_YOUR_SCRAPE_OPS_API_KEY'
+SCRAPEOPS_API_KEY = 'ENTER_YOUR_API_KEY_FROM_SCRAPEOPS'
 SCRAPEOPS_PROXY_ENABLED = True
 #SCRAPEOPS_PROXY_SETTINGS = {'country': 'ie'}
 
