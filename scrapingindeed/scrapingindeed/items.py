@@ -15,6 +15,5 @@ class ScrapingindeedItem(scrapy.Item):
     CompanyReviewCount = scrapy.Field()
     MaxSalary = scrapy.Field()
     MinSalary = scrapy.Field()
-    Currency = scrapy.Field()
     SalaryType = scrapy.Field()
     WorkModel = scrapy.Field()
