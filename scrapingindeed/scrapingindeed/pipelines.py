@@ -22,18 +22,18 @@ class ScrapingindeedPipeline:
         self.connection = sqlite3.connect('INDEED_JOBS.db')  # Database file
         self.cur = self.connection.cursor()
 
-    # Code written to drop table first if existed and creating again to avoid overriding of data in database
+    # Code written to drop table first if existed and creating again to avoid duplication of data in database
     def create_table(self):
         self.cur.execute("""DROP TABLE IF EXISTS INDEED_JOBS""")  # Correct table name
         self.cur.execute("""CREATE TABLE INDEED_JOBS(
             Company TEXT,
-            CompanyRating TEXT,
-            CompanyReviewCount TEXT,
             JobTitle TEXT,
             JobLocation TEXT,
-            MaxSalary REAL,
-            MinSalary REAL,
-            Currency TEXT,
+            CompanyRating TEXT,
+            CompanyReviewCount TEXT,
+            JobPosted TEXT,
+            MaxSalary TEXT,
+            MinSalary TEXT,
             SalaryType TEXT,
             WorkModel TEXT
         )""")
@@ -43,13 +43,13 @@ class ScrapingindeedPipeline:
         self.cur.execute("""INSERT INTO INDEED_JOBS
          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""", (
             item.get("Company", ""),
-            item.get("CompanyRating", ""),
-            item.get("CompanyReviewCount", ""),
             item.get("JobTitle", ""),
             item.get("JobLocation", ""),
+            item.get("JobPosted",""),
+            item.get("CompanyRating", ""),
+            item.get("CompanyReviewCount", ""),
             item.get("MaxSalary", ""),
             item.get("MinSalary", ""),
-            item.get("Currency", ""),
             item.get("SalaryType", ""),
             item.get("WorkModel", "")
         ))

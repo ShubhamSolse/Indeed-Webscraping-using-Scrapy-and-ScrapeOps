@@ -1,316 +1,91 @@
-Company,CompanyRating,CompanyReviewCount,Currency,JobLocation,JobTitle,MaxSalary,MinSalary,SalaryType,WorkModel
-Disney,4.1,5001,EUR,"Dublin, County Dublin",Cast Member - Part Time,0.0,0.0,Not Disclosed,Not Disclosed
-Alo Yoga,0,0,EUR,"Dublin, County Dublin",Sales Associate - Grafton street (Part-Time),0.0,0.0,Not Disclosed,Not Disclosed
-Salsa Jeans,0,0,EUR,"Dublin, County Dublin",Part-time Sales Assistant - Liffey Valley Shopping Centre,0.0,0.0,Not Disclosed,Not Disclosed
-Lovisa,0,0,EUR,"Dublin, County Dublin",Team Member - Part Time - Festive Season,0.0,0.0,Not Disclosed,Not Disclosed
-Lovisa,0,0,EUR,"Dublin, County Dublin",Team Member - Full Time,0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","2024 Christmas Team, Full Time",0.0,0.0,Not Disclosed,Not Disclosed
-Holland & Barrett,2.8,1171,EUR,"Coolock, County Dublin",Retail Assistant,13.91,13.91,hourly,Not Disclosed
-Dundrum Town Centre,4.1,11,EUR,"Dundrum, County Dublin",Waiter,0.0,0.0,Not Disclosed,Not Disclosed
-ADC College,0,0,EUR,"Dublin, County Dublin",English Teacher (Business English) - Part Time/Freelance,0.0,0.0,Not Disclosed,Not Disclosed
-Dublin City University,4.2,53,EUR,"Dublin, County Dublin",Administrative Assistant,0.0,0.0,Not Disclosed,Not Disclosed
-Alo Yoga,0,0,EUR,"Dublin, County Dublin",Seasonal Associate - Grafton Street,0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","COS, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Forever New, Sales Consultant, Part time",0.0,0.0,Not Disclosed,Not Disclosed
-JD Sports,2.9,4731,EUR,"Dublin, County Dublin",Sales Assistant,0.0,0.0,Not Disclosed,Not Disclosed
-Costa Coffee,3.3,4513,EUR,"Dublin, County Dublin",Team Member,0.0,0.0,Not Disclosed,Not Disclosed
-PVH,3.7,1010,EUR,"Dublin, County Dublin","Part Time Sales Associates, Tommy Hilfiger - Arnotts",0.0,0.0,Not Disclosed,Not Disclosed
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Waiter,0.0,0.0,Not Disclosed,Not Disclosed
-Dundrum Town Centre,4.1,11,EUR,"Dundrum, County Dublin",Waiter/Waitress,0.0,0.0,Not Disclosed,Not Disclosed
-Vodafone,3.8,7497,EUR,"Dublin, County Dublin",Retail Advisor - Part Time (Liffey Valley),0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Thomas Sabo, Sales Associate, Part-Time",0.0,0.0,Not Disclosed,Not Disclosed
-Levi Strauss & Co.,3.8,3485,EUR,"Dublin, County Dublin",FT Stock Operator Mon-Fri,0.0,0.0,Not Disclosed,Not Disclosed
-Disney Store,4.2,15535,EUR,"Dublin, County Dublin",Cast Member - Part Time,0.0,0.0,Not Disclosed,Not Disclosed
-Dundrum Town Centre,4.1,11,EUR,"Dundrum, County Dublin",Floor staff,0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dundrum, County Dublin","CHANEL, Sales Consultant, Part Time & Full Time",0.0,0.0,Not Disclosed,Not Disclosed
-SoftCo,4.5,6,EUR,"Dublin, County Dublin",Office Administrator/Receptionist (Part-time),0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Carl Scarpa, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Mint Velvet, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Voluntary Health Insurance,3.5,24,EUR,"Dublin, County Dublin",Part-Time Administrator,0.0,0.0,Not Disclosed,Not Disclosed
-Dublin City University,4.2,53,EUR,"Dublin, County Dublin",Regional Advisor,67912.0,56368.0,yearly,Remote
-G4S,3.3,17923,EUR,"Dublin, County Dublin",CLEANER,13.3,13.3,hourly,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Sandro, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Juvi and DA:YT, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Mint Velvet, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Dublin City University,4.2,53,EUR,"Dublin, County Dublin",Regional Advisor,67912.0,56368.0,yearly,Remote
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Christy , Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-RFC Security,3.4,19,EUR,"Dublin, County Dublin",Cleaning Operative,13.3,13.3,hourly,Not Disclosed
-Home Instead Ireland,3.6,9531,EUR,"Dalkey, County Dublin",Health Care Assistant,16.0,13.92,hourly,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","LK Bennett, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Mango,3.5,1638,EUR,"Dublin, County Dublin","SALES ASSISTANT (20 Hours, Henry St)",0.0,0.0,Not Disclosed,Not Disclosed
-McDonald's Limited,3.4,249389,EUR,"Dublin, County Dublin",Crew Member - Part Time - McDonald's Ilac Centre,0.0,0.0,Not Disclosed,Not Disclosed
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Hostess/Host,0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","The Kooples, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-The Company of Goldsmiths of Dublin The Assay Office,0,0,EUR,"DUBLIN 2, County Dublin",Panel of Hallmarking Operators,0.0,0.0,Not Disclosed,Not Disclosed
-Ann's Home Care,0,0,EUR,"Dublin, County Dublin",Full and Part Time Care Assistants,0.0,0.0,Not Disclosed,Not Disclosed
-Dundrum Town Centre,4.1,11,EUR,"Dundrum, County Dublin",Back of House,0.0,0.0,Not Disclosed,Not Disclosed
-Ann's Home Care,0,0,EUR,"Dublin, County Dublin",Full and Part Time Care Assistants,0.0,0.0,Not Disclosed,Not Disclosed
-Dublin Business School,4.2,12,EUR,"Dublin, County Dublin",Part Time Lecturers (Project Management),0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","The Kooples, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-COSMO,2.7,76,EUR,"Dublin, County Dublin",Waiting Staff (Part time) (DU),0.0,0.0,Not Disclosed,Not Disclosed
-Comfort Keepers Ireland,3.6,5236,EUR,"Dublin, County Dublin",Home Support Worker,17.0,17.0,hourly,Not Disclosed
-McDonald's Limited,3.4,249389,EUR,"Dublin, County Dublin",Crew Member - Part Time - McDonald's Ilac Centre,0.0,0.0,Not Disclosed,Not Disclosed
-The Estée Lauder Companies,4,2605,EUR,"Dublin, County Dublin",MAC - Retail Artist - Arnotts - 7.5 Hours,0.0,0.0,Not Disclosed,Not Disclosed
-St Michaels House,4.1,28,EUR,"Dublin, County Dublin",STAFF NURSES - Day Services - 35 hours per week,0.0,0.0,Not Disclosed,Not Disclosed
-Chadwicks Group,3.7,38,EUR,"Dublin, County Dublin",Receptionist - Job Share - Dublin 22,0.0,0.0,Not Disclosed,Not Disclosed
-Avista,3.5,21,EUR,"Dublin, County Dublin",Care Staff ( Twilight Hours),45984.0,32699.0,yearly,Not Disclosed
-Dublin City University,4.2,53,EUR,"Dublin, County Dublin",Regional Advisor,67912.0,56368.0,yearly,Remote
-Smiggle,3,360,EUR,"Dublin, County Dublin",Sales Assistant,0.0,0.0,Not Disclosed,Not Disclosed
-Costa Coffee,3.3,4513,EUR,"Swords, County Dublin",Seasonal Team Member,0.0,0.0,Not Disclosed,Not Disclosed
-Dundrum Town Centre,4.1,11,EUR,"Dundrum, County Dublin",Back of House,0.0,0.0,Not Disclosed,Not Disclosed
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Waiter,0.0,0.0,Not Disclosed,Not Disclosed
-Avista,3.5,21,EUR,"Dublin, County Dublin",Care Staff ( Twilight Hours),45984.0,32699.0,yearly,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Sandro, Assistant Manager, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Dublin City University,4.2,53,EUR,"Dublin, County Dublin",Research Development Officer,77954.0,57645.0,yearly,Remote
-Dublin City University,4.2,53,EUR,"Dublin, County Dublin",Professional Services Support,50782.0,40552.0,yearly,Not Disclosed
-The Estée Lauder Companies,4,2605,EUR,"Dublin, County Dublin",MAC - Retail Artist - Arnotts - 7.5 Hours,0.0,0.0,Not Disclosed,Not Disclosed
-The Merrion Hotel,3.9,27,EUR,"Dublin, County Dublin",Driver (Fixed-Term),0.0,0.0,Not Disclosed,Not Disclosed
-The Company of Goldsmiths of Dublin The Assay Office,0,0,EUR,"DUBLIN 2, County Dublin",Panel of Hallmarking Operators,0.0,0.0,Not Disclosed,Not Disclosed
-Addleshaw Goddard,0,0,EUR,"Dublin, County Dublin",2025 Dublin Summer Internship/2027 Training Contract,46000.0,46000.0,yearly,Not Disclosed
-Creditsafe,3.3,38,EUR,"Dublin, County Dublin",Office Manager,0.0,0.0,Not Disclosed,Hybrid work
-The Just Group,0,0,EUR,"Dublin, County Dublin",Temp Sales Assistant - Smiggle Ireland - Blanchardstown,0.0,0.0,Not Disclosed,Not Disclosed
-H.Samuel,3.7,448,EUR,"Dublin, County Dublin",Sales Associate- H. Samuel - Permanent- Part Time,0.0,0.0,Not Disclosed,Not Disclosed
-Aramark,3.4,22199,EUR,"Dublin, County Dublin",Catering Services Worker,0.0,0.0,Not Disclosed,Not Disclosed
-Nando’s Chickenland Ireland Ltd,3.8,2191,EUR,"Dublin, County Dublin",Front of House Team Member,0.0,0.0,Not Disclosed,Not Disclosed
-Health Service Executive,3.3,103,EUR,"Dublin, County Dublin","Grade VIII, Day Opportunities Coordinator",0.0,0.0,Not Disclosed,Not Disclosed
-"Home Instead, Leopardstown",3.6,9531,EUR,"Leopardstown, County Dublin",Home Care Assistant (Full time/Part time),16.0,13.92,hourly,Not Disclosed
-Dublin City University,4.2,53,EUR,"Dublin, County Dublin",Research Development Officer,77954.0,57645.0,yearly,Remote
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Sandro, Assistant Manager, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Dundrum Town Centre,4.1,11,EUR,"Dundrum, County Dublin",Kitchen Porter,0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","French Connection, Sales Associate, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-The Merrion Hotel,3.9,27,EUR,"Dublin, County Dublin",Driver (Fixed-Term),0.0,0.0,Not Disclosed,Not Disclosed
-IVC Evidensia,3.1,315,EUR,"Dublin, County Dublin",Receptionist,13.5,13.5,hourly,Not Disclosed
-Creditsafe,3.3,38,EUR,"Dublin, County Dublin",Office Manager,0.0,0.0,Not Disclosed,Hybrid work
-Health Service Executive,3.3,103,EUR,"Dublin, County Dublin",Counsellor / Therapist Employee Assistance Programme,0.0,0.0,Not Disclosed,Not Disclosed
-Health Service Executive,3.3,103,EUR,"Dublin, County Dublin","Grade VIII, Day Opportunities Coordinator",0.0,0.0,Not Disclosed,Not Disclosed
-The Estée Lauder Companies,4,2605,EUR,"Dublin, County Dublin",Clinique - Consultant - M&S - 22.5 Hours,0.0,0.0,Not Disclosed,Not Disclosed
-Tigers Childcare,4,41,EUR,"Balgriffin, County Dublin","Childcare AIM Position, Balgriffin",32864.0,29744.0,yearly,Not Disclosed
-Claire's,3.2,5394,EUR,"Dublin, County Dublin",Supervisor Part-Time Blanchardstown S.C,0.0,0.0,Not Disclosed,Not Disclosed
-Avista,3.5,21,EUR,"Dublin, County Dublin",RESOURCE TEACHER,80324.0,43435.0,yearly,Not Disclosed
-H.Samuel,3.7,448,EUR,"Dublin, County Dublin",Sales Associate- H. Samuel - Permanent- Part Time,0.0,0.0,Not Disclosed,Not Disclosed
-The Just Group,0,0,EUR,"Dublin, County Dublin",Temp Sales Assistant - Smiggle Ireland - Blanchardstown,0.0,0.0,Not Disclosed,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Customer Marketing Manager - On Trade( Part Time),0.0,0.0,Not Disclosed,Not Disclosed
-Aramark,3.4,22199,EUR,"Dublin, County Dublin",Catering Assistant,0.0,0.0,Not Disclosed,Not Disclosed
-Bon Secours Hospital,3.8,1953,EUR,"Dublin, County Dublin",GI Physiologist Full time/Part time/Flexible hours,0.0,0.0,Not Disclosed,Not Disclosed
-Grace Healthcare of Dublin,0,0,EUR,"Dublin, County Dublin",Healthcare Assistant,0.0,0.0,Not Disclosed,Not Disclosed
-Nando’s Chickenland Ireland Ltd,3.8,2191,EUR,"Dublin, County Dublin",Front of House Team Member,0.0,0.0,Not Disclosed,Not Disclosed
-Home Instead Ireland,3.6,9531,EUR,"Greystones, County Wicklow",Health Care Assistant (Full training provided),16.0,0.0,hourly,Not Disclosed
-Woodbrook Outreach & Homecare services,5,5,EUR,"South Dublin, County Dublin",Home Care Assistant,-1.0,13.5,hourly,Not Disclosed
-"Home Instead, Leopardstown",3.6,9531,EUR,"Leopardstown, County Dublin",Home Care Assistant (Full time/Part time),16.0,13.92,hourly,Not Disclosed
-Outlier,0,0,EUR,"Bray, County Wicklow",Math Tutor - Part Time Work From Home,0.0,0.0,Not Disclosed,Remote
-The Just Group,0,0,EUR,"Dublin, County Dublin",Sales Assistant - Part Time - Smiggle - Dundrum,0.0,0.0,Not Disclosed,Not Disclosed
-Sonder,0,0,EUR,"Dublin, County Dublin",Internal Housekeeper - Part Time,0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dundrum, County Dublin","La Mer, Skin Care Expert, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Kitchen Assistant,0.0,0.0,Not Disclosed,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Account Executive - On Trade,0.0,0.0,Not Disclosed,Not Disclosed
-Smiggle,3,360,EUR,"Dublin, County Dublin",Temp Sales Assistant,0.0,0.0,Not Disclosed,Not Disclosed
-Mater Hospital,3.2,21,EUR,"Dublin, County Dublin",Staff Nurse - ED Twilight Triage,53318.0,35419.0,yearly,Not Disclosed
-Central Remedial Clinic,4.6,12,EUR,"Clondalkin, County Dublin",Staff Nurse,53318.0,35419.0,yearly,Not Disclosed
-Dublin Business School,4.2,12,EUR,"Dublin, County Dublin",Part time Computing Lecturers,105.0,105.0,hourly,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Customer Marketing Manager - On Trade( Part Time),0.0,0.0,Not Disclosed,Not Disclosed
-ICTS Ireland,2.8,661,EUR,"Dublin Airport, County Dublin",Security Officer,14.5,14.5,hourly,Not Disclosed
-The Just Group,0,0,EUR,"Dublin, County Dublin",Sales Assistant - Part Time - Smiggle - Dundrum,0.0,0.0,Not Disclosed,Not Disclosed
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Kitchen Assistant,0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dundrum, County Dublin","La Mer, Skin Care Expert, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Bon Secours Hospital,3.8,1953,EUR,"Dublin, County Dublin",GI Physiologist Full time/Part time/Flexible hours,0.0,0.0,Not Disclosed,Not Disclosed
-Stewarts Care,0,0,EUR,"Palmerstown, County Dublin",Risk Officer (SC24-503),67308.0,55093.0,yearly,Not Disclosed
-Buymie Technologies ULC,3.2,55,EUR,"Tallaght, County Dublin",Personal Shopper/Delivery Driver,15.0,0.0,hourly,Not Disclosed
-Grace Healthcare of Dublin,0,0,EUR,"Dublin, County Dublin",Healthcare Assistant,0.0,0.0,Not Disclosed,Not Disclosed
-Dublin City University,4.2,53,EUR,"Dublin, County Dublin",Global Recruitment Manager,0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Blanchardstown, County Dublin","French Connection, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Kitchen Porter.,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Community Liaison Officers,0.0,0.0,Not Disclosed,Hybrid work
-Dublin Simon Community,3.7,41,EUR,"Dublin, County Dublin",Retail Operations Supervisor,36500.0,36500.0,yearly,Not Disclosed
-Dundrum Town Centre,4.1,11,EUR,"Dundrum, County Dublin",Luxury Sales Ambassa,0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Kipling, Supervisor, Full Time",0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dundrum, County Dublin","La Mer, Skin Care Expert, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-LKQ Euro Car Parts,0,0,EUR,"Sandyford, County Dublin",Delivery Driver PT,0.0,0.0,Not Disclosed,Not Disclosed
-Dundrum Town Centre,4.1,11,EUR,"Dundrum, County Dublin",Supervisor,0.0,0.0,Not Disclosed,Not Disclosed
-Outlier,0,0,EUR,"Bray, County Wicklow",Math Tutor - Part Time Work From Home,0.0,0.0,Not Disclosed,Remote
-SBFM,3.4,384,EUR,"DUBLIN 2, County Dublin",Cleaner,11.44,11.44,hourly,Not Disclosed
-Deloitte,3.9,13571,EUR,"Dublin, County Dublin",Part Time Audit Manager - Dublin - Hybrid,0.0,0.0,Not Disclosed,Not Disclosed
-Dublin City University,4.2,53,EUR,"Dublin, County Dublin",Teacher Fellowship,63968.0,46960.0,yearly,Remote
-Skillspark AB,0,0,EUR,"Dublin, County Dublin",Agile Coach,0.0,0.0,Not Disclosed,Not Disclosed
-Centric Health,4.3,3,EUR,"Dublin, County Dublin",Wellness Coach,0.0,0.0,Not Disclosed,Not Disclosed
-Dundrum Town Centre,4.1,11,EUR,"Dundrum, County Dublin",Front Of House Membe,0.0,0.0,Not Disclosed,Not Disclosed
-Aramark,3.4,22199,EUR,"Dublin, County Dublin",Catering Services Worker,0.0,0.0,Not Disclosed,Not Disclosed
-G4S,3.3,17923,EUR,"Blackrock, County Dublin",VEHICLE OFFICER,14.5,14.5,hourly,Not Disclosed
-UK Greetings,3.5,137,EUR,"Dublin, County Dublin",MERCHANDISER - ROI,13.0,13.0,hourly,Not Disclosed
-St Michaels House,4.1,28,EUR,"Dublin, County Dublin",Social Care Worker - Royal Oak - Residential,54989.0,38951.0,yearly,Not Disclosed
-HSE Community Healthcare East,0,0,EUR,"Dublin, County Dublin","CHE552024 HR Manager, Grade VIII / Grád VIII",95351.0,79056.0,yearly,Not Disclosed
-HSE Community Healthcare East,0,0,EUR,"Dublin, County Dublin",CHE392022K: Staff Nurse (Intellectual Disability) – Rolling Campaign/ Altra Foirne — Míchumas Intleachtúil,53851.0,35919.0,yearly,Not Disclosed
-Addleshaw Goddard,0,0,EUR,"Dublin, County Dublin",Reception Team Leader,0.0,0.0,Not Disclosed,Not Disclosed
-Health Service Executive,3.3,103,EUR,"South Dublin, County Dublin",Amended,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Part-time Assistant Project Advisor - Electrical,0.0,0.0,Not Disclosed,Hybrid work
-Bon Secours Hospital,3.8,1953,EUR,"Dublin, County Dublin",NTPF and Claims Utilisation Nurse,0.0,0.0,Not Disclosed,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Digital Content & Activation Manager -eCommerce,0.0,0.0,Not Disclosed,Not Disclosed
-BDO Ireland,3.6,2004,EUR,"Dublin, County Dublin",Corporate Secretarial - Manager (Part-Time),0.0,0.0,Not Disclosed,Hybrid work
-Grand Hotel Malahide,3.2,22,EUR,"Malahide, County Dublin",Qualified Gym & Swimming Pool Staff,0.0,0.0,Not Disclosed,Not Disclosed
-RSM Ireland,4.3,3,EUR,"Dublin, County Dublin",Outsourcing Consultant - Payroll,0.0,0.0,Not Disclosed,Hybrid work
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Transformation & Data Lead,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Stakeholder Manager,0.0,0.0,Not Disclosed,Hybrid work
-Dublin Business School,4.2,12,EUR,"Dublin, County Dublin",Careers Coach,0.0,0.0,Not Disclosed,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Digital Content & Activation Manager -eCommerce,0.0,0.0,Not Disclosed,Not Disclosed
-Paddy Power,3.3,461,EUR,"Dublin, County Dublin",Retail Betting Assistant,13.05,13.05,hourly,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Transformation & Data Lead,0.0,0.0,Not Disclosed,Not Disclosed
-UK Greetings,3.5,137,EUR,"Dublin, County Dublin",MERCHANDISER - ROI,13.0,13.0,hourly,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Stakeholder Manager,0.0,0.0,Not Disclosed,Hybrid work
-Contact Care,0,0,EUR,"Dublin, County Dublin",Care Responder - North Dublin,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Part-time Assistant Project Advisor - Electrical,0.0,0.0,Not Disclosed,Hybrid work
-McDonald's Limited,3.4,249389,EUR,"Dublin, County Dublin",Shift Leader - Part Time - McDonald's Ilac Centre,0.0,0.0,Not Disclosed,Not Disclosed
-Addleshaw Goddard,0,0,EUR,"Dublin, County Dublin",Senior HR Professional,0.0,0.0,Not Disclosed,Not Disclosed
-The Estée Lauder Companies,4,2605,EUR,"Blanchardstown, County Dublin",Estée Lauder - Beauty Advisor - Boots - 28 Hours,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Governance Support,0.0,0.0,Not Disclosed,Hybrid work
-Dublin Business School,4.2,12,EUR,"Dublin, County Dublin",Dissertation Supervisor - Addiction Programmes,0.0,0.0,Not Disclosed,Not Disclosed
-Bon Secours Hospital,3.8,1953,EUR,"Dublin, County Dublin",NTPF and Claims Utilisation Nurse,0.0,0.0,Not Disclosed,Not Disclosed
-Little Harvard,3.9,18,EUR,"Bray, County Wicklow",Childcare Practitioner | Bray and Greystones,16.5,14.0,hourly,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Governance Support,0.0,0.0,Not Disclosed,Hybrid work
-Donnelly Fresh,0,0,EUR,"Dublin, County Dublin",Commercial Executive,0.0,0.0,Not Disclosed,Not Disclosed
-Dublin Business School,4.2,12,EUR,"Dublin, County Dublin",Careers Coach,0.0,0.0,Not Disclosed,Not Disclosed
-Zurich Insurance,3.8,1562,EUR,"Dublin, County Dublin",Delivery Lead - Microservices,0.0,0.0,Not Disclosed,Not Disclosed
-Centric Health,4.3,3,EUR,"Dublin, County Dublin",General Practice Nurse,28.0,26.0,hourly,Not Disclosed
-Costa Coffee,3.3,4513,EUR,"Dublin, County Dublin",Team Leader,0.0,0.0,Not Disclosed,Not Disclosed
-Health Service Executive,3.3,103,EUR,"Dublin, County Dublin",Staff Nurse General (Community) Rolling Campaign - Amended,0.0,0.0,Not Disclosed,Not Disclosed
-Garland,0,0,EUR,"Dublin, County Dublin",Part-time Compliance BCAR Engineer-Inspector,0.0,0.0,Not Disclosed,Not Disclosed
-Barnardos,4.3,19,EUR,"Dublin, County Dublin",Project Worker – Supporting Traveller Women in Prison,42878.0,27740.0,yearly,Not Disclosed
-Eaton,3.7,5535,EUR,"Dublin, County Dublin",Key Account Manager - International Data Centre Accounts,0.0,0.0,Not Disclosed,Hybrid work
-Contact Care,0,0,EUR,"Dublin, County Dublin","Healthcare Assistants - Dublin Northside: Swords, Malahide & Howth",0.0,0.0,Not Disclosed,Not Disclosed
-G4S,3.3,17923,EUR,"Dublin, County Dublin",SECURITY OFFICER,14.5,14.5,hourly,Not Disclosed
-Barnardos,4.3,19,EUR,"Dublin, County Dublin","Project Worker- Finglas, Family Resource Centre",0.0,0.0,Not Disclosed,Not Disclosed
-International House,4.3,10,EUR,"Dublin, County Dublin",CELTA Teacher Trainer in Dublin,0.0,0.0,Not Disclosed,Not Disclosed
-EY,3.9,10233,EUR,"DUBLIN 2, County Dublin",Financial Services - VAT Advisor/Senior,0.0,0.0,Not Disclosed,Hybrid work
-Fortfield Physiotherapy,0,0,EUR,"Dublin, County Dublin",Office Manager/Secretary,0.0,0.0,Not Disclosed,Not Disclosed
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Hostess/Host,0.0,0.0,Not Disclosed,Not Disclosed
-Charttics,0,0,EUR,"Dublin, County Dublin",Computer Trainer For Kids(OWN CAR. Part-Time),15.0,15.0,hourly,Not Disclosed
-McDonald's Limited,3.4,249389,EUR,"Dublin, County Dublin",Crew Member - Part Time - McDonald's Ilac Centre,0.0,0.0,Not Disclosed,Not Disclosed
-Moriarty Group,0,0,EUR,"Dublin, County Dublin",Receptionist,0.0,0.0,Not Disclosed,Not Disclosed
-Sun Kiss,0,0,EUR,"Dublin, County Dublin",Tanning Assistant,-1.0,12.5,hourly,Not Disclosed
-Hugo Boss,3.6,812,EUR,"Dublin, County Dublin",Sales Associate (Part Time) - Dublin Grafton Street,0.0,0.0,Not Disclosed,Not Disclosed
-COSMO,2.7,76,EUR,"Dublin, County Dublin",Waiting Staff (Part time) (DU),0.0,0.0,Not Disclosed,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","Christy , Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Kurt Geiger,3.3,324,EUR,"Dundrum, County Dublin","12hr Part Time Sales Assistant, Kurt Geiger, Dundrum",0.0,0.0,Not Disclosed,Not Disclosed
-Cleaning Contractors Ltd.,0,0,EUR,"DUBLIN 17, County Dublin",Cleaning Operative,13.3,13.3,hourly,Not Disclosed
-Brown Thomas Arnotts,3.9,212,EUR,"Dublin, County Dublin","LK Bennett, Sales Consultant, Part Time",0.0,0.0,Not Disclosed,Not Disclosed
-Home Instead Ireland,3.6,9531,EUR,"Dalkey, County Dublin",Health Care Assistant,16.0,13.92,hourly,Not Disclosed
-Weirs Gifts,0,0,EUR,"Stillorgan, County Dublin",Retail Sales Assistant,33902.44,26500.0,yearly,Not Disclosed
-GardenRooms.ie,0,0,EUR,"Finglas, County Dublin",Showroom Sales & Support - Saturday,18.0,18.0,hourly,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Commercial Investment Manager,0.0,0.0,Not Disclosed,Not Disclosed
-Zurich Insurance,3.8,1562,EUR,"Dublin, County Dublin",Head of Pensions & Benefits,0.0,0.0,Not Disclosed,Not Disclosed
-Specsavers,3.1,2014,EUR,"Dublin, County Dublin",Optometrist,75000.0,75000.0,yearly,Not Disclosed
-Health Service Executive,3.3,103,EUR,"North Dublin, County Dublin",Children's Disability Network Team - Amended & Extended,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Rail Opportunities - Ireland,0.0,0.0,Not Disclosed,Hybrid work
-EY,3.9,10233,EUR,"DUBLIN 2, County Dublin",Financial Services - VAT Advisor/Senior,0.0,0.0,Not Disclosed,Hybrid work
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Chefs of all levels- Browns,0.0,0.0,Not Disclosed,Not Disclosed
-Centric Health,4.3,3,EUR,"Dublin, County Dublin",Wellness Coach Locum Coach (1),0.0,0.0,Not Disclosed,Not Disclosed
-St. Vincent's Healthcare Group,0,0,EUR,"Dublin, County Dublin",Locum Consultant Endocrinologist,0.0,0.0,Not Disclosed,Not Disclosed
-Levi Strauss & Co.,3.8,3485,EUR,"Dublin, County Dublin",30hr keyholder experience essential,0.0,0.0,Not Disclosed,Not Disclosed
-St Michaels House,4.1,28,EUR,"Dublin, County Dublin",Social Care Worker – Respite Services,38951.0,38951.0,yearly,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Revenue and Growth Manager,0.0,0.0,Not Disclosed,Not Disclosed
-Grace Healthcare of Dublin,0,0,EUR,"Dublin, County Dublin",Staff Nurse,0.0,0.0,Not Disclosed,Not Disclosed
-Eaton,3.7,5535,EUR,"Dublin, County Dublin",Key Account Manager - International Data Centre Accounts,0.0,0.0,Not Disclosed,Hybrid work
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Senior Retail Customer Marketing Manager - Beer Brand,0.0,0.0,Not Disclosed,Not Disclosed
-Platinum Homecare,0,0,EUR,"Dublin, County Dublin",Care Assistant Clontarf Co Dublin,20.0,0.0,hourly,Not Disclosed
-General Paints Group,0,0,EUR,"Celbridge, County Kildare",Digital Colour Consultant,0.0,0.0,Not Disclosed,Hybrid work
-Outlier,0,0,EUR,"Bray, County Wicklow",AI Math Educator - Part Time Work From Home,0.0,0.0,Not Disclosed,Remote
-Barnardos,4.3,19,EUR,"Dublin, County Dublin",Practical Family Support Worker – Supporting Traveller Women in Prison,14.0,14.0,hourly,Not Disclosed
-RehabCare,3.3,47,EUR,"Stillorgan, County Dublin",CARE WORKER P&S,0.0,0.0,Not Disclosed,Not Disclosed
-Platinum Homecare,0,0,EUR,"Dublin, County Dublin",Crumlin - Healthcare Assistant,20.0,0.0,hourly,Not Disclosed
-Tallaght University Hospital,4.5,16,EUR,"Tallaght, County Dublin",Grade V team leader haematology Part time (28hrs over 4 days),0.0,0.0,Not Disclosed,Not Disclosed
-beeline Group,0,0,EUR,"Dublin, County Dublin","Field Jewellery Merchandiser (Fashion) Dublin, Clarehall, Beaumont, Ballybrack",0.0,0.0,Not Disclosed,Remote
-The Just Group,0,0,EUR,"Dublin, County Dublin",Temp Sales Assistant - Smiggle Ireland - Dundrum,0.0,0.0,Not Disclosed,Not Disclosed
-St Michaels House,4.1,28,EUR,"Dublin, County Dublin",Social Care Worker - Riverside - Residential,54989.0,38951.0,yearly,Not Disclosed
-Holland & Barrett,2.8,1171,EUR,"Coolock, County Dublin",Assistant Manager,14.89,14.89,hourly,Not Disclosed
-International House,4.3,10,EUR,"Dublin, County Dublin",CELTA Teacher Trainer in Dublin,0.0,0.0,Not Disclosed,Not Disclosed
-Sandman Hotel Group,0,0,EUR,"Portmarnock, County Dublin",Chef de Partie,0.0,0.0,Not Disclosed,Not Disclosed
-General Paints Group,0,0,EUR,"Celbridge, County Kildare",COLOUR CONSULTANT - CELBRIDGE,0.0,0.0,Not Disclosed,Not Disclosed
-St Michaels House,4.1,28,EUR,"Dublin, County Dublin",Social Care Worker - Riverside Day Service,54989.0,38951.0,yearly,Not Disclosed
-General Paints Group,0,0,EUR,"Celbridge, County Kildare",Digital Colour Consultant,0.0,0.0,Not Disclosed,Hybrid work
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Commercial Investment Manager,0.0,0.0,Not Disclosed,Not Disclosed
-Eaton,3.7,5535,EUR,"Dublin, County Dublin",Key Account Manager - International Data Centre Accounts,0.0,0.0,Not Disclosed,Hybrid work
-Grace Healthcare of Dublin,0,0,EUR,"Dublin, County Dublin",Staff Nurse,0.0,0.0,Not Disclosed,Not Disclosed
-Kennedys Law,0,0,EUR,"Dublin, County Dublin","Associate, Healthcare (1 - 4years PQE)",0.0,0.0,Not Disclosed,Not Disclosed
-Specsavers,3.1,2014,EUR,"Dublin, County Dublin",Optometrist,75000.0,75000.0,yearly,Not Disclosed
-The Estée Lauder Companies,4,2605,EUR,"Dublin, County Dublin",Travel Retail - Clinique - Consultant - AerRianta T1 - 27 Hours,0.0,0.0,Not Disclosed,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Revenue and Growth Manager,0.0,0.0,Not Disclosed,Not Disclosed
-Zurich Insurance,3.8,1562,EUR,"Dublin, County Dublin",Head of Pensions & Benefits,0.0,0.0,Not Disclosed,Not Disclosed
-Tallaght University Hospital,4.5,16,EUR,"Tallaght, County Dublin",Grade V team leader haematology Part time (28hrs over 4 days),0.0,0.0,Not Disclosed,Not Disclosed
-Zurich Insurance,3.8,1562,EUR,"Dublin, County Dublin",SRE Security Engineer,0.0,0.0,Not Disclosed,Not Disclosed
-Zurich Insurance,3.8,1562,EUR,"Dublin, County Dublin","Governance Specialist, EEA-Hybrid",0.0,0.0,Not Disclosed,Not Disclosed
-General Paints Group,0,0,EUR,"Celbridge, County Kildare",COLOUR CONSULTANT - CELBRIDGE,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Rail Opportunities - Ireland,0.0,0.0,Not Disclosed,Hybrid work
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Prep Chef / Production Chef,0.0,0.0,Not Disclosed,Not Disclosed
-St. Vincent's Healthcare Group,0,0,EUR,"Dublin, County Dublin",Locum Consultant Endocrinologist,0.0,0.0,Not Disclosed,Not Disclosed
-Levi Strauss & Co.,3.8,3485,EUR,"Dublin, County Dublin",30hr keyholder experience essential,0.0,0.0,Not Disclosed,Not Disclosed
-St Michaels House,4.1,28,EUR,"Dublin, County Dublin",Social Care Worker – Respite Services,38951.0,38951.0,yearly,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Revenue and Growth Manager,0.0,0.0,Not Disclosed,Not Disclosed
-Platinum Homecare,0,0,EUR,"Dublin, County Dublin",Healthcare Assistant Clontarf Co Dublin,20.0,0.0,hourly,Not Disclosed
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Senior Retail Customer Marketing Manager - Beer Brand,0.0,0.0,Not Disclosed,Not Disclosed
-Grace Healthcare of Dublin,0,0,EUR,"Dublin, County Dublin",Staff Nurse,0.0,0.0,Not Disclosed,Not Disclosed
-Eaton,3.7,5535,EUR,"Dublin, County Dublin",Key Account Manager - International Data Centre Accounts,0.0,0.0,Not Disclosed,Hybrid work
-Levi Strauss & Co.,3.8,3485,EUR,"Dublin, County Dublin",16hr Key holder Exp essential,0.0,0.0,Not Disclosed,Not Disclosed
-The Estée Lauder Companies,4,2605,EUR,"Dublin, County Dublin",Travel Retail - Bobbi Brown - Retail Artist - Dublin - 18 Hours,0.0,0.0,Not Disclosed,Not Disclosed
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Prep Chef / Production Chef,0.0,0.0,Not Disclosed,Not Disclosed
-Health Service Executive,3.3,103,EUR,"Dublin, County Dublin",Staff Nurse (Intellectual Disability) – Including Nursing Graduates/ Undergraduates Rolling Campaign,0.0,0.0,Not Disclosed,Not Disclosed
-Tigers Childcare,4,41,EUR,"Leopardstown, County Dublin",Childcare Aim Support Leopardstown - 15 Hours,32864.0,29744.0,yearly,Not Disclosed
-Autism Initiatives,2.6,291,EUR,"Stillorgan, County Dublin",Flexi Part Time Support Worker. Stillorgan. Co. Dublin,-1.0,14.93,hourly,Not Disclosed
-The Estée Lauder Companies,4,2605,EUR,"Dublin, County Dublin",Travel Retail - MAC - Retail Artist - Dublin - 18 Hours,0.0,0.0,Not Disclosed,Not Disclosed
-Levi Strauss & Co.,3.8,3485,EUR,"Dublin, County Dublin",Assistant Manager,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Assistant Project Manager - Water,0.0,0.0,Not Disclosed,Hybrid work
-The SpitJack,2.9,27,EUR,"Dublin, County Dublin",Chefs of all levels,0.0,0.0,Not Disclosed,Not Disclosed
-The Estée Lauder Companies,4,2605,EUR,"Dublin, County Dublin",Tom Ford - Make up & Fragrance Specialist - Brown Thomas - 15 Hours,0.0,0.0,Not Disclosed,Not Disclosed
-Zurich Insurance,3.8,1562,EUR,"Dublin, County Dublin",Actuarial Services Coach,0.0,0.0,Not Disclosed,Not Disclosed
-Jones Garden Centre,4.5,2,EUR,"Donabate, County Dublin",Qualified Chef Position,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Consents Managers/Co-Ordinators,0.0,0.0,Not Disclosed,Hybrid work
-Diageo,4.1,813,EUR,"Dublin, County Dublin",Head of Commercial Growth,0.0,0.0,Not Disclosed,Not Disclosed
-Health Service Executive,3.3,103,EUR,"Dublin, County Dublin",Intellectual Disability Services Bainisteoir Altraí Cliniciúil 2 Seirbhísí Míchumas Intleachtúil,0.0,0.0,Not Disclosed,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Town Planner,0.0,0.0,Not Disclosed,Hybrid work
-Allpro Recruitment Ltd.,4,5,EUR,"Dublin, County Dublin",Social Care Workers - Dublin,18.0,14.0,hourly,Not Disclosed
-Platinum Homecare,0,0,EUR,"Ashbourne, County Meath",Ashbourne - Healthcare Assistant,20.0,0.0,hourly,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Part-time Project Manager - Water,0.0,0.0,Not Disclosed,Hybrid work
-AFRY,0,0,EUR,"Dublin, County Dublin",Project Manager - Renewable Energy,0.0,0.0,Not Disclosed,Hybrid work
-B&Q,3.3,3215,EUR,"Dublin, County Dublin",Department Manager - Showrooms,43500.0,0.0,yearly,Not Disclosed
-Health Service Executive,3.3,103,EUR,"South Dublin, County Dublin",Clinical Nurse Specialist (Outreach),0.0,0.0,Not Disclosed,Not Disclosed
-Centric Health,4.3,3,EUR,"Dublin, County Dublin",Principal Specialist Psychologist,126814.0,109392.0,yearly,Not Disclosed
-JLL,3.7,3656,EUR,"Dublin, County Dublin",Engineering Lead,0.0,0.0,Not Disclosed,Not Disclosed
-Stewarts Care,0,0,EUR,"Dublin West, County Dublin",Occupational Therapist - Adult Services (SC125),61303.0,42622.0,yearly,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Project Manager - Electrical,0.0,0.0,Not Disclosed,Hybrid work
-Swissport International AG,3.1,5517,EUR,"Dublin, County Dublin",Customer Service Agent - PART TIME - IRE,16.01,16.01,hourly,Not Disclosed
-Health Service Executive,3.3,103,EUR,"South Dublin, County Dublin",Clinical Nurse Manager 1 (Intellectual Disability Services),0.0,0.0,Not Disclosed,Not Disclosed
-123 Money,0,0,EUR,"Dublin, County Dublin",Cloud Platform & DevOps Engineer,0.0,0.0,Not Disclosed,Hybrid work
-Mace,0,0,EUR,"Dublin, County Dublin",Senior Project Manager Renewable Energy,0.0,0.0,Not Disclosed,Hybrid work
-AECOM,3.7,5456,EUR,"Dublin, County Dublin",Technical Director - Impact Assessment,0.0,0.0,Not Disclosed,Not Disclosed
-New Angel Cleaning Services,0,0,EUR,"Dublin, County Dublin",Cleaner (part-time),13.3,13.3,hourly,Not Disclosed
-Stewarts Care,0,0,EUR,"Palmerstown, County Dublin",Senior Psychologist - Children’s Disability Network Team (SC014),111277.0,94669.0,yearly,Not Disclosed
-ByrneWallace,2.5,2,EUR,"DUBLIN 2, County Dublin",Corporate/Commercial - Professional Support Lawyer,0.0,0.0,Not Disclosed,Hybrid work
-The Odeon Group,0,0,EUR,"Dublin, County Dublin",Floor Staff,13.0,13.0,hourly,Not Disclosed
-Anna cleanings,0,0,EUR,"Dublin, County Dublin",Cleaner for offices,2600.0,2000.0,monthly,Not Disclosed
-Nolan Coaches,3.3,3,EUR,"Dublin, County Dublin",Part Time Cleaner and Shunter Weekends,15.0,15.0,hourly,Not Disclosed
-BC Law,0,0,EUR,"Dublin, County Dublin",Part-time Office Junior,-1.0,12500.0,yearly,Not Disclosed
-Enable Ireland,3.9,59,EUR,"Bray, County Wicklow","Psychologist, Senior",107186.0,91190.0,yearly,Not Disclosed
-McElwaine Security Services Ltd,0,0,EUR,"Dublin, County Dublin",Accounts Assistant - Part Time,16.5,15.5,hourly,Not Disclosed
-New Angel Cleaning Services,0,0,EUR,"Dublin, County Dublin",Cleaner (part-time),13.3,13.3,hourly,Not Disclosed
-AECOM,3.7,5456,EUR,"Dublin, County Dublin",Associate Director- Marine Ecologist,0.0,0.0,Not Disclosed,Hybrid work
-Anna cleanings,0,0,EUR,"Dublin, County Dublin",Cleaner for offices,2600.0,2000.0,monthly,Not Disclosed
-BidvestNoonan,2.9,715,EUR,"Dublin, County Dublin",Cleaning Operative - Part-time (ROI),0.0,0.0,Not Disclosed,Not Disclosed
-Addleshaw Goddard,0,0,EUR,"Dublin, County Dublin",Planning & Environmental Lawyer,0.0,0.0,Not Disclosed,Not Disclosed
-Central Remedial Clinic,4.6,12,EUR,"Dublin, County Dublin",Clinical Specialist Occupational Therapist,76348.0,65793.0,yearly,Not Disclosed
-Nutty Delights,2.3,3,EUR,"Dublin, County Dublin",Christmas Sales Assistant (Part time),14.0,12.7,hourly,Not Disclosed
-Dylan Oaks Jewellery,0,0,EUR,"Dublin, County Dublin",Part-Time Jewellery Store Stylist- Dylan Oaks Liffey Valley,0.0,0.0,Not Disclosed,Not Disclosed
-LOCO Scooters Limited,0,0,EUR,"Dublin, County Dublin",Retail Sales Associate [Part-time] Blanchardstown [Saturdays & Mondays],-1.0,13.0,hourly,Not Disclosed
-Dcs services,0,0,EUR,"Swords, County Dublin",Cleaner (part-time),13.3,13.3,hourly,Not Disclosed
-Matsukawa,0,0,EUR,"Dublin, County Dublin",Cleaner (part-time),17.26,12.7,hourly,Not Disclosed
-Premier Inn,3.3,3058,EUR,"Dublin, County Dublin",F&B Team Member,13.8,0.0,hourly,Not Disclosed
-O'Briens Wine,3.9,11,EUR,"Dublin, County Dublin",Temporary Part Time Sales Assistant - Rathgar,0.0,0.0,Not Disclosed,Not Disclosed
-Medical Optics Fairview,2.5,2,EUR,"Fairview, County Dublin","Receptionist - Part-time, full days",14.5,12.7,hourly,Not Disclosed
-SOS Cookies,0,0,EUR,"Dundrum, County Dublin",SOS Cookies Dundrum - Part Time Sales Assistant,-1.0,12.7,hourly,Not Disclosed
-Mace,0,0,EUR,"Dublin, County Dublin",Senior Lead Engineer - Electrical,0.0,0.0,Not Disclosed,Hybrid work
-Dylan Oaks Jewellery,0,0,EUR,"Dublin, County Dublin",Part-Time Jewellery Store Stylist- Dylan Oaks Liffey Valley,0.0,0.0,Not Disclosed,Not Disclosed
-Matsukawa,0,0,EUR,"Dublin, County Dublin",Cleaner (part-time),17.26,12.7,hourly,Not Disclosed
-Eye Portrait,0,0,EUR,"Dublin, County Dublin",Sales Assistant (part-time),14.0,14.0,hourly,Not Disclosed
-Maxi Zoo Ireland,3.4,587,EUR,"Ashbourne, County Meath",Part-Time Sales Assistant (Ashbourne),13.0,13.0,hourly,Not Disclosed
-Talbot Hotel Stillorgan,2.7,3,EUR,"Dublin, County Dublin",Part-Time Casual Banqueting Staff (Christmas Season),0.0,0.0,Not Disclosed,Not Disclosed
-Derrycourt Cleaning Specialists,2.9,73,EUR,"Dublin, County Dublin","Part Time Cleaning Operative Loughlinstown, South Dublin (10hrs weekly)",-1.0,13.3,hourly,Not Disclosed
-K & K Produce,0,0,EUR,"Ward, County Dublin",Order Picker,0.0,0.0,Not Disclosed,Not Disclosed
-Sbarro Ireland,0,0,EUR,"Dublin, County Dublin",Full/Part Time Team member - Sbarro NY Pizza Ilac,-1.0,12.7,hourly,Not Disclosed
-Sky Handling Partner,2.6,91,EUR,"Dublin Airport, County Dublin",Passenger Services Agent,15.0,15.0,hourly,Not Disclosed
-RFC Security Group,2.4,12,EUR,"Dublin, County Dublin",Cleaning Operative,13.3,13.3,hourly,Not Disclosed
+Company,CompanyRating,CompanyReviewCount,Currency,JobLocation,JobPosted,JobTitle,MaxSalary,MinSalary,SalaryType,WorkModel
+McDonald's Limited,3.4,249430,,"Dublin, County Dublin",1 day ago,Crew Member - Part Time - McDonald's Ilac Centre,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Ann's Home Care,0,0,,"Dublin, County Dublin",30+ days ago,Full and Part Time Care Assistants,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+COSMO,2.7,76,,"Dublin, County Dublin",30+ days ago,Waiting Staff (Part time) (DU),Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+McDonald's Limited,3.4,249430,,"Dublin, County Dublin",1 day ago,Shift Leader - Part Time - McDonald's Ilac Centre,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Zizzi,3.3,590,,"Dublin, County Dublin",27 days ago,Front of House ROI - Team Member,12.8,10.26,hourly,Not Disclosed
+Daybreak,3.3,154,,"Cabra, County Dublin",7 days ago,Deli Assistant,13.5,13.5,hourly,Not Disclosed
+Eddie Rockets,3.6,127,,"Dublin, County Dublin",30+ days ago,KITCHEN PORTER,12.7,12.7,hourly,Not Disclosed
+McDonald's Limited,3.4,249430,,"Dublin, County Dublin",3 days ago,Crew Member Donaghmede,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+McDonald's Limited,3.4,249430,,"Dublin, County Dublin",2 days ago,Crew Member - Carrickmines,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Amwell,0,0,,"Dublin, County Dublin",30+ days ago,Behavioural Health Coach,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Bauer Media Audio Ireland,0,0,,"DUBLIN 2, County Dublin",9 days ago,Multimedia Content Creator - Off The Ball,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+McDonald's Limited,3.4,249430,,"Dublin, County Dublin",15 days ago,Crew Member- Charlestown Full Time,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+McDonald's Limited,3.4,249430,,"Dublin, County Dublin",23 days ago,Liffey Valley D/T Full Time Crew Member,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+ICTS Ireland,2.8,661,,"Dublin Airport, County Dublin",30+ days ago,Security Officer,14.5,14.5,hourly,Not Disclosed
+Food by Compass,0,0,,"Dublin, County Dublin",30+ days ago,Kitchen Porter,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Food by Compass,0,0,,"Dublin, County Dublin",30+ days ago,Kitchen Porter,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Milano,0,0,,"Dublin, County Dublin",4 days ago,Milano Front of House Support Team - Fixed term contract,14.03,12.7,hourly,Not Disclosed
+Spectrum.Life,0,0,,"DUBLIN 2, County Dublin",2 days ago,Customer Success Scale Manager,Not Disclosed,Not Disclosed,Not Disclosed,Hybrid work
+Nando’s Chickenland Ireland Ltd,3.8,2191,,"Dublin, County Dublin",19 days ago,Front of House Team Member,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"BOC Limited, a Linde company",0,0,,"Dublin, County Dublin",2 days ago,Business Operations Analyst,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Bauer Media Audio Ireland,0,0,,"DUBLIN 2, County Dublin",12 days ago,Junior Account Manager - Media Central,Not Disclosed,Not Disclosed,Not Disclosed,Hybrid work
+Moriarty Group,0,0,,"Dublin, County Dublin",30+ days ago,Meeting & Events Executive,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Nando’s Chickenland Ireland Ltd,3.8,2191,,"Dublin, County Dublin",29 days ago,Back of House Team Member,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+ICTS Ireland,2.8,661,,"Dublin Airport, County Dublin",30+ days ago,Security Officer,14.5,14.5,hourly,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Catering Assistant,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Food by Compass,0,0,,"Dublin, County Dublin",30+ days ago,Barista,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"BOC Limited, a Linde company",0,0,,"Dublin, County Dublin",10 days ago,Credit Controller,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Cleaning Operative,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Food Service / Catering Assistant,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Zizzi,3.3,590,,"Dublin, County Dublin",27 days ago,Chef - ROI,13,13,hourly,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Food Service / Catering Assistant,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Nando’s Chickenland Ireland Ltd,3.8,2191,,"Dublin, County Dublin",29 days ago,Back of House Team Member,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+McDonald's Limited,3.4,249430,,"Dublin, County Dublin",26 days ago,Crew member O'Connell Street,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"BOC Limited, a Linde company",0,0,,"Dublin, County Dublin",10 days ago,Credit Controller,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Client Dining Waiter,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Seasonal Admissions staff,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Food by Compass,0,0,,"Dublin, County Dublin",30+ days ago,Head Kitchen Porter,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Sandman Hotel Group,0,0,,"Portmarnock, County Dublin",15 days ago,Bar Tender- Portmarnock Hotel & Golf Links,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+River Island,3.5,2090,,"Dublin, County Dublin",19 days ago,Service & People Team Leader,29204,29204,yearly,Not Disclosed
+"River Island, Retail",3.5,2090,,"Dublin, County Dublin",30+ days ago,Store Manager,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Diageo,4.1,812,,"Dublin, County Dublin",8 days ago,Head of Visitor Experience,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Kitchen Porter,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Compass Group,3.2,10784,,"Dublin, County Dublin",2 days ago,Sales And Events Administrator,27195,27195,yearly,Not Disclosed
+Food by Compass,0,0,,"Dublin, County Dublin",30+ days ago,Commis Chef,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Food Service Worker II,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Compass Group,3.2,10784,,"Dublin, County Dublin",5 days ago,Catering Assistant,12.7,12.7,hourly,Not Disclosed
+Food by Compass,0,0,,"Dublin, County Dublin",30+ days ago,Commis Chef,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Teagasc,4.3,41,,"Dublin, County Dublin",10 days ago,Prepared Consumer Foods - Contract Technologist,77284,40580,yearly,Not Disclosed
+Diageo,4.1,812,,"Dublin, County Dublin",8 days ago,Head of Visitor Experience,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Dublin Simon Community,3.7,41,,"Dublin, County Dublin",30+ days ago,Support Worker - BBVU,30000,30000,yearly,Not Disclosed
+LITTLE HARVARD CRECHE,3.9,18,,"Santry, County Dublin",25 days ago,Early Years Cook | Santry,15,15,hourly,Not Disclosed
+Diageo,4.1,812,,"Dublin, County Dublin",30+ days ago,Guinness Open Gate Brewery - Team Leader,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+The SpitJack,2.9,27,,"Dublin, County Dublin",Just posted,Commis Chef.,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Bauer Media Audio Ireland,0,0,,"DUBLIN 2, County Dublin",12 days ago,Junior Account Manager - Media Central,Not Disclosed,Not Disclosed,Not Disclosed,Hybrid work
+The SpitJack,2.9,27,,"Dublin, County Dublin",4 days ago,Kitchen Porter.,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Unilever,4.2,9061,,"Dublin, County Dublin",2 days ago,Ice Cream Out Of Home Channel Manager,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Addleshaw Goddard,0,0,,"Dublin, County Dublin",30+ days ago,Reception Team Leader,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"River Island, Retail",3.5,2090,,"Dublin, County Dublin",19 days ago,Service & People Team Leader,29204,29204,yearly,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Electrical Apprentice,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Concern Worldwide,3.9,86,,"Dublin, County Dublin",30+ days ago,Management Accountant,62286,54500,yearly,Hybrid work
+Workday,3.9,202,,"Dublin, County Dublin",17 days ago,Junior Data Informatics Analyst – Workday Core Applications,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",1 day ago,Payroll Administrator,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Food and Beverage Assistant,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Donnelly Fresh,0,0,,"Dublin, County Dublin",30+ days ago,Commercial Executive,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+The Lunch Bag,3,7,,"Dublin, County Dublin",30+ days ago,School Caretaker- Dublin,-1,28500,yearly,Not Disclosed
+Sandman Hotel Group,0,0,,"Portmarnock, County Dublin",15 days ago,Chef de Partie,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Grace Healthcare of Dublin,0,0,,"Dublin, County Dublin",30+ days ago,Chef,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Food by Compass,0,0,,"Dublin, County Dublin",30+ days ago,Demi Chef de Partie,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+AMMEGA,0,0,,"Dublin, County Dublin",7 days ago,Internal Sales Administrator,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+The SpitJack,2.9,27,,"Dublin, County Dublin",1 day ago,Chef de Partie,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Cleaning Services Worker II,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",22 days ago,General Food Service Assistant,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"Marriott International, Inc",4,25463,,"Dublin, County Dublin",22 days ago,F&B Service Expert,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Mondelēz International,3.9,5862,,"Dublin, County Dublin",30+ days ago,Manufacturing Section Manager,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Food by Compass,0,0,,"Dublin, County Dublin",30+ days ago,Chef de Partie,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Atlas Copco (Ireland) Ltd,4,1564,,"Dublin, County Dublin",30+ days ago,Sales and Project Support Engineer,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"Marriott International, Inc",4,25463,,"Dublin, County Dublin",22 days ago,F&B Service Expert,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"River Island, Retail",3.5,2090,,"Dublin, County Dublin",30+ days ago,Product Manager,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Culinary Specialist,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Videojet,0,0,,"Dublin, County Dublin",29 days ago,Field Service Engineer - Ireland,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"BOC Limited, a Linde company",0,0,,"Dublin, County Dublin",10 days ago,Sureserve Relief Sales & Service Driver,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"BOC Limited, a Linde company",0,0,,"Leixlip, County Kildare",16 days ago,ASU Engineer,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+The SpitJack,2.9,27,,"Dublin, County Dublin",Just posted,Prep Chef / Production Chef,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+The SpitJack,2.9,27,,"Dublin, County Dublin",Just posted,Chefs of All Levels,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Grace Healthcare of Dublin,0,0,,"Dublin, County Dublin",30+ days ago,Chef,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+"River Island, Retail",3.5,2090,,"Dublin, County Dublin",30+ days ago,Product Team Leader,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Amtivo Group,0,0,,"Dublin, County Dublin",30+ days ago,Environmental Inspector (Dublin),Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Jones Garden Centre,4.5,2,,"Donabate, County Dublin",30+ days ago,Qualified Chef Position,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Aramark,3.4,22206,,"Dublin, County Dublin",30+ days ago,Building Manager,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed
+Food by Compass,0,0,,"Dublin, County Dublin",30+ days ago,Demi Chef de Partie,Not Disclosed,Not Disclosed,Not Disclosed,Not Disclosed

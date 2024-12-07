@@ -1,4 +1,3 @@
-
 # importing required libraries
 import re  # The `re` library handles pattern-matching and text manipulation.
 import json  # The `json` library handles encoding/decoding JSON data in Python.
@@ -13,7 +12,7 @@ class IndeedScraping(scrapy.Spider):
     name = "indeedscraper"  # Name of the scrapy spider
     next_page_number = 10  # Varaiable used for pagination
     start_urls = [
-        'https://ie.indeed.com/jobs?q=java+developer&l=Dublin%2C+County+Dublin&start=0'
+        'https://ie.indeed.com/jobs?q=part+time+food&l=Dublin%2C+County+Dublin&start=0'
     ]  # start_urls store the staring url for scraping
 
     # code has been written to create a method to parse the website and scrape the data
@@ -39,21 +38,16 @@ class IndeedScraping(scrapy.Spider):
                 CompanyReviewCount = job.get('companyReviewCount')
                 jobTitle = job.get('displayTitle')
                 JobLocation = job.get('formattedLocation')
-
+                JobPosted = job.get('formattedRelativeTime')
                 if job.get('extractedSalary') is None:
-                    MaxSalary = 0
+                    MaxSalary = 'Not Disclosed'
                 else:
                     MaxSalary = job.get('extractedSalary').get('max')
 
                 if job.get('extractedSalary') is None:
-                    MinSalary = 0
+                    MinSalary = 'Not Disclosed'
                 else:
                     MinSalary = job.get('extractedSalary').get('min')
-
-                if job.get('salarySnippet'):
-                    Currency = "EUR"
-                else:
-                    Currency = job.get('salarySnippet').get('currency')
 
                 if job.get('extractedSalary') is None:
                     SalaryType = 'Not Disclosed'
@@ -66,20 +60,20 @@ class IndeedScraping(scrapy.Spider):
                     WorkModel = job.get('remoteWorkModel').get('text')
 
                 items["Company"] = Company
-                items["CompanyRating"] = CompanyRating
-                items["CompanyReviewCount"] = CompanyReviewCount
                 items["JobTitle"] = jobTitle
                 items["JobLocation"] = JobLocation
-                items["MaxSalary"] = float(MaxSalary)
-                items["MinSalary"] = float(MinSalary)
-                items["Currency"] = Currency
+                items["JobPosted"] = JobPosted
+                items["CompanyRating"] = CompanyRating
+                items["CompanyReviewCount"] = CompanyReviewCount
+                items["MaxSalary"] = MaxSalary
+                items["MinSalary"] = MinSalary
                 items["SalaryType"] = SalaryType
                 items["WorkModel"] = WorkModel
 
                 yield items
 
         # Below code is written for pagination
-        next_page = f"https://ie.indeed.com/jobs?q=java+developer&l=Dublin%2C+County+Dublin&start={str(self.next_page_number)}"
+        next_page = f"https://ie.indeed.com/jobs?q=part+time+food&l=Dublin%2C+County+Dublin&start={str(self.next_page_number)}"
 
         if IndeedScraping.next_page_number < 210:
             IndeedScraping.next_page_number += 10
