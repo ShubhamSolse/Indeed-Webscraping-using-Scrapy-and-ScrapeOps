@@ -1,5 +1,7 @@
-The project sheds light on the implementation of Scrapy, an extremely effective framework for web scraping, to extract job listings from the Indeed website specifically related to Python, Java, and part-time roles located in Dublin, Ireland. The primary target is to build up an automated system to collect job titles, company names, locations, and posting dates by availing of various interfaces so that generating valuable insights for both job seekers and researchers would be the main goal.
-
-The crawled data is validated and verified through Scrapy pipelines to guarantee that data integrity and consistency is upheld. The data is then stored in a SQLite3 database for querying and faster data analysis. Conversely, the project will facilitate data export to multiple formats such as CSV, XML, and JSON which would enable the adaptability of data in different analyses and be compatible with various tools of analysis.
-
-This project presents the robust capabilities of Scrapy in tackling the toughest of web scraping jobs, which include the autonomous navigation of dynamic contents as well as the management of large datasets. The data produced can be used in various ways. They can be applied for trend analysis, job market research, and creating customised job recommendation systems.
+CA2 report link: https://docs.google.com/document/d/1u-1QbBr0vGU_-ZxTc9UJXQXmr7RvbcVw69LufqJb7SE/edit?usp=sharing
+steps to implement:
+  1. git clone the git in PyCharm.
+  2. Open the terminal and pip install scrapy, pip install w3lib
+  3. After installing dependencies go to scrapingindeed folder from the terminal.
+  4. After entering scrapingindeed folder write the command "scrapy crawl indeedscraper -o indeed_python_dublin_jobs.csv"
+  5. After entering the command web scraping initiates and it will scrape the data from the website. Scraped data can be found in INDEED_JOBS.DB and indeed_python_dublin_jobs.csv file.
