@@ -1,13 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="506" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="791" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4SA4tHrFqESlYz7W3tuI-28" value="scrapingindeed.py (Web scraping logic is written inside this .py file)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="325" width="260" height="60" as="geometry" />
+        <mxCell id="7bbjxVAXCqF2V5wLvZ0--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4SA4tHrFqESlYz7W3tuI-28" target="4SA4tHrFqESlYz7W3tuI-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7bbjxVAXCqF2V5wLvZ0--2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4SA4tHrFqESlYz7W3tuI-28" value="scrapingindeed.py (Web scraping logic is written inside this .py file)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="320" width="260" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="7bbjxVAXCqF2V5wLvZ0--2" value="Scrapy Architecture" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="-20" width="1060" height="820" as="geometry" />
         </mxCell>
         <mxCell id="4SA4tHrFqESlYz7W3tuI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="7bbjxVAXCqF2V5wLvZ0--2" source="4SA4tHrFqESlYz7W3tuI-2" target="4SA4tHrFqESlYz7W3tuI-4" edge="1">
@@ -34,6 +37,9 @@
         <mxCell id="4SA4tHrFqESlYz7W3tuI-15" value="scrapy.cfg (Specifies the default project settings)" style="rounded=1;whiteSpace=wrap;html=1;" parent="7bbjxVAXCqF2V5wLvZ0--2" vertex="1">
           <mxGeometry x="270" y="100" width="280" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7bbjxVAXCqF2V5wLvZ0--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7bbjxVAXCqF2V5wLvZ0--2" source="4SA4tHrFqESlYz7W3tuI-16" target="4SA4tHrFqESlYz7W3tuI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4SA4tHrFqESlYz7W3tuI-16" value="items.py (create data structure for scraped fields from scrapingindeed.py)" style="rounded=1;whiteSpace=wrap;html=1;" parent="7bbjxVAXCqF2V5wLvZ0--2" vertex="1">
           <mxGeometry x="270" y="210" width="280" height="70" as="geometry" />
         </mxCell>
@@ -43,11 +49,14 @@
         <mxCell id="4SA4tHrFqESlYz7W3tuI-18" value="setting.py (global settings for the Scrapy project, such as user agents, concurrency settings, pipelines, and middleware configurations.)" style="rounded=1;whiteSpace=wrap;html=1;" parent="7bbjxVAXCqF2V5wLvZ0--2" vertex="1">
           <mxGeometry x="270" y="445" width="285" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7bbjxVAXCqF2V5wLvZ0--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="7bbjxVAXCqF2V5wLvZ0--2" source="4SA4tHrFqESlYz7W3tuI-19" target="4SA4tHrFqESlYz7W3tuI-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4SA4tHrFqESlYz7W3tuI-19" value="pipelines.py(The pipeline file defines how the scraped data is processed after being scraped. Common operations include cleaning the data, validating it, or saving it to a database.)" style="rounded=1;whiteSpace=wrap;html=1;" parent="7bbjxVAXCqF2V5wLvZ0--2" vertex="1">
           <mxGeometry x="275" y="580" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4SA4tHrFqESlYz7W3tuI-34" value="INDEED_JOBS.DB" style="shape=datastore;whiteSpace=wrap;html=1;" parent="7bbjxVAXCqF2V5wLvZ0--2" vertex="1">
-          <mxGeometry x="810" y="540" width="130" height="105" as="geometry" />
+          <mxGeometry x="800" y="567.5" width="130" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

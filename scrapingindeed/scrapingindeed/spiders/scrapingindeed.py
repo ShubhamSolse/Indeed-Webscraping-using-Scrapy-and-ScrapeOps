@@ -12,7 +12,7 @@ class IndeedScraping(scrapy.Spider):
     name = "indeedscraper"  # Name of the scrapy spider
     next_page_number = 10  # Varaiable used for pagination
     start_urls = [
-        'https://ie.indeed.com/jobs?q=part+time&l=Dublin%2C+County+Dublin&start=0'
+        'https://ie.indeed.com/jobs?q=c%23+developer&l=Dublin%2C+County+Dublin&start=0'
     ]  # start_urls store the staring url for scraping
 
     # code has been written to create a method to parse the website and scrape the data
@@ -20,11 +20,11 @@ class IndeedScraping(scrapy.Spider):
         # Initializing the ScrapyindeedItem class
         items = ScrapingindeedItem()
 
-        # Extracts JSON-like data from specific JavaScript in HTML response.
+        # Extracts JSON-like data from specific JavaScript.
         script_tag = re.findall(
             r'window.mosaic.providerData\["mosaic-provider-jobcards"\]=(\{.+?\});',
             response.text)
-        # Converts the first extracted JSON string into a Python dictionary.
+        # This JSON blob is pretty big and contains a lot of unnecessary data but the data we are looking for is in.
         json_blob = json.loads(script_tag[0])
 
         # navigating to the results where the job data to be scraped is present
@@ -73,8 +73,8 @@ class IndeedScraping(scrapy.Spider):
                 yield items
 
         # Below code is written for pagination
-        next_page = f"https://ie.indeed.com/jobs?q=part+time&l=Dublin%2C+County+Dublin&start={str(self.next_page_number)}"
+        next_page = f"https://ie.indeed.com/jobs?q=c%23+developer&l=Dublin%2C+County+Dublin&start={str(self.next_page_number)}"
 
-        if IndeedScraping.next_page_number < 210:
+        if IndeedScraping.next_page_number < 110:
             IndeedScraping.next_page_number += 10
             yield response.follow(next_page, callback=self.parse)
